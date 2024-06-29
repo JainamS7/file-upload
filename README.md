@@ -1,4 +1,4 @@
-# simple-file-upload
+# simple-file-upload API
 
 A simple file upload API using Django rest framework
 
